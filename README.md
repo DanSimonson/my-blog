@@ -10,4 +10,4 @@
 
 ## **This blog is created from a Gatsby start blog. It contains posts for mariposaweb.net**
 
-# _You may want to check out more content at [mariposaweb.net](https://mariposaweb.net/)_
+### _You may want to check out more content at [mariposaweb.net](https://mariposaweb.net/)_
