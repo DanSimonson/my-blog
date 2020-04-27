@@ -4,6 +4,10 @@ date: "2020-04-26T22:12:03.284Z"
 description: "Gentle introduction to Redux state management"
 ---
 
+[Demo](https://nostalgic-perlman-df8a29.netlify.app/)
+
+[Github Code](https://github.com/DanSimonson/reminder-list)
+
 This blog is intended to be a gentle introduction into the use of Redux with React for state management. It is my intention for this post to be the first of a two part blog. First, I will introduce Redux basics and then the second blog will delve into Asynchronous API calls using Thunk.
 
 ### Three core concepts!
@@ -44,7 +48,7 @@ export const DELETE_REMINDER = "DELETE_REMINDER"
 
 Then we make our ReminderActions.js file. The difference between plain actions and actioncreators is that actions are objects and actioncreators are functions that return objects. ActionCreators are useful because they allow for the use of asynchronous code if it is needed.
 
-Actions always return a'type,' and one can think of this as a type of action.Optional payload data can also be passed in to the action to further define what it does.
+Actions always return a 'type,' and one can think of this as a type of action.Optional payload data can also be passed into the action to further define what it does.
 
 ReminderActions.js file:
 
