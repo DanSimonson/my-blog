@@ -5,3 +5,7 @@ description: "Gentle introduction to Redux state management"
 ---
 
 Hey y'all, this is my awesome new blog!
+
+```javascript
+let name = "dan"
+```
