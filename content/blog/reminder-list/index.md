@@ -210,7 +210,6 @@ function ReminderContainer(props) {
         {text !== "" ? buttonOne : buttonTwo}
       </div>
       <div className="wrapper">
-        {/*<h2 className="title">Honey Do List</h2>*/}
         <div className="reminderListDiv">{reminderList}</div>
       </div>
     </div>
