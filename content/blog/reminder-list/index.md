@@ -140,7 +140,7 @@ function App() {
 export default App
 ```
 
-The store is created and React sees it now. but we are not finished. We need to get the state so we can use it and we need to be able to dispatch an actions to set the state when we need it changed.
+The store is created and React sees it now. but we are not finished. We need to get the state so we can use it and we need to be able to dispatch actions to set the state when we need it changed.
 
 All that work happens in our ReminderContainer.js file:
 
