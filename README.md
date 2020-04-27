@@ -8,10 +8,6 @@
   🚀 Dan Simonson's mariposaweb.net blog 
 </h1>
 
-<p align='center>
-
 ## **This blog is created from a Gatsby start blog. It contains posts for mariposaweb.net**
 
 ### _You may want to check out more content at [mariposaweb.net](https://mariposaweb.net/)_
-
-</p>
