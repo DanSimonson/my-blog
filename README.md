@@ -5,12 +5,12 @@
   </a>
 </p>
 <h1 align="center">
-  Dan Simonson's mariposaweb.net blog 
+   ## 🚀 Dan Simonson's mariposaweb.net blog 
 </h1>
 
-This blog is created from a Gatsby start blog. It contains posts for mariposaweb.net
+**This blog is created from a Gatsby start blog. It contains posts for mariposaweb.net**
 
-\_You may want to check out our vibrant collection of [mariposaweb.net](https://mariposaweb.net/).\_
+_You may want to check out our vibrant collection of [mariposaweb.net](https://mariposaweb.net/)_
 
 ## 🚀 Quick start
 
