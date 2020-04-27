@@ -13,8 +13,8 @@ This blog is intended to be a gentle introduction into the use of Redux with Rea
 ### Three core concepts!
 
 1.  The store holds the state of the application
-2.  Actions are object that describe what happened, while action creators are functions that describe what happened.
-3.  Reducers tie the (actions/actioncreators) and store together, changing the application state.
+2.  Actions are objects that describe what happened, while action creators are functions that describe what happened.
+3.  Reducers tie the (actions/action creators) and store together, changing the application state.
 
 our application folder structure looks like this:
 
@@ -46,7 +46,7 @@ export const ADD_REMINDER = "ADD_REMINDER"
 export const DELETE_REMINDER = "DELETE_REMINDER"
 ```
 
-Then we make our ReminderActions.js file. The difference between plain actions and actioncreators is that actions are objects and actioncreators are functions that return objects. ActionCreators are useful because they allow for the use of asynchronous code if it is needed.
+Then we make our ReminderActions.js file. The difference between plain actions and action creators is that actions are objects and actioncreators are functions that return objects. Action creators are useful because they allow for the use of asynchronous code if it is needed.
 
 Actions always return a 'type,' and one can think of this as a type of action. Optional payload data can also be passed into the action to further define what it does.
 
