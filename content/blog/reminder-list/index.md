@@ -16,7 +16,7 @@ This blog is intended to be a gentle introduction into the use of Redux with Rea
 2.  Actions are object that describe what happened, while action creators are functions that describe what happened.
 3.  Reducers tie the (actions/actioncreators) and store together, changing the application state.
 
-our application folder structure look like this:
+our application folder structure looks like this:
 
 ```javascript
 Reminder-list
