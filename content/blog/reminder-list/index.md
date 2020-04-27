@@ -243,7 +243,7 @@ Getting the state is accomplished with mapStateToProps that permits us to use th
 
 The mapDispatchToProps allows us to dispatch the actions to then alter the state.
 
-whew, it's kind of complicated, but you will get it. Practice this tutorial a few times and try modifying it on your own.
+Whew, it's kind of complicated, but you will get it. Practice this tutorial a few times and try modifying it on your own.
 
 ‘Tell me and I forget. Teach me and I remember. Involve me and I learn'
 –Benjamin Franklin
