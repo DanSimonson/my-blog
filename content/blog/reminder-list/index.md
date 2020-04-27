@@ -237,7 +237,7 @@ for React and Redux to 'connect,' we need to import that functionality. This is 
 
 we use it at the bottom of the page and it does just what its name implies: it connects redux to react.
 
-Two two more built in react-redux functions allow us to do the crucial work of getting everything to work.
+Two more built in react-redux functions allow us to do the crucial work of getting everything to work.
 
 Getting the state is accomplished with mapStateToProps that permits us to use the state as a prop in this file.
 
