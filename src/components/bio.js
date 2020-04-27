@@ -65,7 +65,7 @@ const Bio = () => {
           You should follow him on Twitter
       </a>*/}
       </p>
-      {/*<p>{author.summary}</p>*/}
+      <p>{author.summary}</p>*
     </div>
   )
 }

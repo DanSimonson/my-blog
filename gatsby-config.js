@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Thinking in React, Vue and Modern Javascript`,
+    title: `mariposaweb.net`,
     author: {
       name: `Dan Simonson`,
-      summary: `a summary`,
+      summary: `Thinking in React, Vue and Modern Javascript`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
