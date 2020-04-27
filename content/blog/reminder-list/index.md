@@ -48,7 +48,7 @@ export const DELETE_REMINDER = "DELETE_REMINDER"
 
 Then we make our ReminderActions.js file. The difference between plain actions and actioncreators is that actions are objects and actioncreators are functions that return objects. ActionCreators are useful because they allow for the use of asynchronous code if it is needed.
 
-Actions always return a 'type,' and one can think of this as a type of action.Optional payload data can also be passed into the action to further define what it does.
+Actions always return a 'type,' and one can think of this as a type of action. Optional payload data can also be passed into the action to further define what it does.
 
 ReminderActions.js file:
 
