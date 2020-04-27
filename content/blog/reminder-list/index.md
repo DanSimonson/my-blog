@@ -174,7 +174,7 @@ function ReminderContainer(props) {
   const onChangeReminderText = e => {
     setText(e.target.value)
   }
-  //style={{ marginLeft: "25px" }} // style={{ width: "100%" }}
+
   const reminderList = props.reminders.length ? (
     props.reminders.map(todo => {
       return (
