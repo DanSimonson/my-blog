@@ -232,9 +232,9 @@ const mapDispatchToProps = dispatch => {
 export default connect(mapStateToProps, mapDispatchToProps)(ReminderContainer)
 ```
 
-for React and Redux to 'connect,' we need to import that functionality. This is accomplished by importing - you guessed it - 'connect' from react-redux.
+For React and Redux to 'connect,' we need to import that functionality. This is accomplished by importing - you guessed it - 'connect' from react-redux.
 
-we use it at the bottom of the page and it does just what its name implies: it connects redux to react.
+We use it at the bottom of the page and it does just what its name implies: it connects redux to react.
 
 Two more built in react-redux functions allow us to do the crucial work of getting everything to work.
 
