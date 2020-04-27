@@ -142,10 +142,6 @@ export default App
 
 The store is created and React sees it now. but we are not finished. We need to get the state so we can use it and we need to be able to dispatch an actions to set the state when we need it changed.
 
-//redux to react so that we can get hold of the state.
-
-//Also, we need to 'connect' so we dispatch an action from our react component //that will in turn call a reducer that will change the state and store the new ///state in our store.
-
 All that work happens in our ReminderContainer.js file:
 
 ```javascript
