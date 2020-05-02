@@ -26,7 +26,7 @@ state = {
 
 The state properties allows us to hold the reminders returned from the api, display a loading message until they are returned and finally give an error message if something goes wrong.
 
-Next, we will discuss the actions and reducers. The First action's result will determine which of the final two actions are implemented.
+Next, we will discuss the actions and reducers. The first action's result will determine which of the final two actions are implemented.
 
 If the **GET REMINDER REQUEST** action is successful we will set loading to true and then call the **GET REMINDER SUCCESS** action/reducer, set loading to false, and load the reminders into the payload. If something goes awry, we will we will set loading to true and call the **GET REMINDER FAILURE** action/reducer, set loading to false, and display an error message from the api.
 
@@ -103,8 +103,8 @@ const ReminderReducer = (state = initialState, action) => {
   }
 }
 ```
-.
 
+.
 
 Now we will explain the asynchronous part of our application.
 
